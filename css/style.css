@@ -1,0 +1,84 @@
+.slider h3,
+.slider h5
+{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+}
+
+.logo
+{
+	width: 270px;
+	height: 160px;
+	filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.9));
+}
+
+
+.parallax img
+{
+	filter: contrast(50%);
+}
+
+
+.parallax-container
+{
+	height: 20%;
+}
+
+
+.member-title
+{
+	text-shadow: 3px 3px 3px rgba(21,2,0,0.7);
+	color: blue;
+}
+
+
+.char
+{
+	height: 290px;
+	z-index: 1;
+
+}
+
+.group
+{
+	margin-top: 30px;
+}
+
+
+section,footer
+{
+	padding: 20px 0px;
+}
+
+
+.card-panel 
+{
+	height: 520px;
+}
+
+
+
+.card-panel h5,p
+{
+	margin-left: -25px;
+	margin-right: -25px;
+}
+
+
+.seiyuu-thumb
+{
+	width: 140px;
+	height: 174px;
+}
+
+.logo-thumb
+{
+	width: 100px;
+	height: 80px;
+}
+
+.mt
+{
+	margin-top: -10px;
+}
+
+
